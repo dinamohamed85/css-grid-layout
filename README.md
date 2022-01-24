@@ -17,6 +17,6 @@ To run Demo : https://css-mini-grid-layout.netlify.app
   <td><img src='screenshots/img3.jpg' width='100%' /></td>
  </tr>
  <tr>
-  <td><img src='screenshots/img4.jpg' width='100%' /></td>
+  <img src='screenshots/img4.jpg' width='100%' />
  </tr>
 </table>
