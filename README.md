@@ -1,7 +1,8 @@
 # css-grid-layout
 Simple web application for css grid layout
-- Responsive Design. 
-- css grid for Columns Layouts. 
+- Responsive Design using Media Query. 
+- CSS grid for Columns Layouts. 
+- CSS grid (min,max) for Responsive Design without Media Query.
 - Navbar.
 - Animation. 
 - External Icons from fontawesome.  
